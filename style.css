@@ -1,0 +1,10 @@
+div
+	{
+		margin: 10px;
+		width: 48%;
+	}
+	#Paragraph1 , #Paragraph2
+	{
+		width: 100%;
+		margin: 10px;
+	}
